@@ -119,8 +119,9 @@ The Company Management System is designed to help manage various entities, inclu
 - **Performance Review:**
     -  Transition the performance review of an employee.: `POST /employee/performance_reviews/{id}/transition`
 
-###  Documintation of project Uo can Show 
+###  Documintation of project You can Show all endpoint and how use from
 `api/docs/swagger/` 
+
 `api/docs/redoc/`
 
 
